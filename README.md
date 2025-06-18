@@ -139,13 +139,6 @@ http://localhost:4000/api-docs
 
 All routes are grouped with example requests/responses.
 
----
-
-## 🤝 Contributors
-
-* Mayank Gautam ([@mayank22283](mailto:mayank22283@iiitd.ac.in))
-
----
 
 ## 📜 License
 
