@@ -138,8 +138,3 @@ http://localhost:4000/api-docs
 ```
 
 All routes are grouped with example requests/responses.
-
-
-## 📜 License
-
-This project is for educational use (DevifyX assignment) and is MIT licensed.
